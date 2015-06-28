@@ -1,5 +1,8 @@
 #!/bin/bash
 
+hexo clean
+hexo generate
+
 s3cmd sync ./public/* s3://tomdunn.net/ \
     --guess-mime-type \
     --no-mime-magic \
