@@ -8,5 +8,4 @@ s3cmd sync ./public/* s3://tomdunn.net/ \
     --acl-public \
     --access_key=$DEPLOY_KEY_ID \
     --secret_key=$DEPLOY_KEY_SECRET \
-    --skip-existing
 
