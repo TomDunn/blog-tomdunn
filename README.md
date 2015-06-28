@@ -1,6 +1,6 @@
 # blog-tomdunn
 
-The code for [tomdunn.net](tomdunn.net).
+The code for [tomdunn.net](http://tomdunn.net).
 
 ## About
 
