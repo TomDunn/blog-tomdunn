@@ -1,11 +1,12 @@
 title: Hosting and deploying a static website on Amazon S3
-date: 2015-06-28 16:40:24
 tags:
-    - aws
-    - s3
-    - web
-    - static-website
+  - aws
+  - s3
+  - web
+  - static-website
+date: 2015-06-28 16:40:24
 ---
+
 
 # Overview
 
