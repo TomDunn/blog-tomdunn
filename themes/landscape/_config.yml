@@ -3,7 +3,6 @@ menu:
   Home: /
   About: /about
   Archives: /archives
-rss: /atom.xml
 
 # Content
 excerpt_link: Read More
@@ -19,7 +18,7 @@ widgets:
 - recent_posts
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-64687025-1
 favicon: /favicon.png
 twitter:
 google_plus:
