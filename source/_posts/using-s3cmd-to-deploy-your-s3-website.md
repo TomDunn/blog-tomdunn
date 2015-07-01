@@ -22,6 +22,7 @@ This post assumes you have already set up your static website. If you need to, f
 ## Create a user/policy for s3cmd
 
 s3cmd needs credentials in order to interact with your S3 buckets. I recommend not using your root credentials and instead creating an IAM policy and user for s3cmd. In the IAM console create a policy with this body:
+
 ``` JSON
 {
     "Version": "2012-10-17",
@@ -54,6 +55,7 @@ s3cmd needs credentials in order to interact with your S3 buckets. I recommend n
 ```
 
 Now create an IAM user and save the access key id/secret. Apply the policy from above to the user you created. I usually save the credentials into a shell script like so:
+
 ``` bash
 #!/bin/bash
 
@@ -63,6 +65,7 @@ export DEPLOY_KEY_SECRET='PUT SECRET HERE'
 ```
 
 and then run:
+
 ``` bash
 source ./creds.sh
 ```
@@ -72,6 +75,7 @@ This makes the credentials available via the environment variables $DEPLOY_KEY_I
 ## Write the deploy script
 
 Now, to wrap everything up with the deployment script:
+
 ``` bash
 #!/bin/bash
 
