@@ -2,9 +2,11 @@ title: The Ginger Bug
 tags:
   - ginger beer
   - homebrewing
-short_desc: In this post I describe the first step of ginger brewing, making the bug
+short_desc: 'In this post I describe the first step of ginger brewing, making the bug'
 og_img: /2015/07/07/ginger-bug/thebug.jpg
+date: 2015-07-07 17:12:08
 ---
+
 I love Ginger Beer. I have read/heard that it is pretty easy to make and that the homemade stuff can be way better than the readily available kind. I decided to give it a try. After reading around, I found that the first step is to make a [ginger bug]. It is not actually a bug - just a fermenting ginger/sugar mixture :)
 
 ## Making the Bug
