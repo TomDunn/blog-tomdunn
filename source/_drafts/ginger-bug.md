@@ -1,22 +1,33 @@
-title: Ginger Beer (first try)
+title: The Ginger Bug
 tags:
   - ginger beer
   - homebrewing
+short_desc: In this post I describe the first step of ginger brewing, making the bug
+og_img: /2015/07/07/ginger-bug/thebug.jpg
 ---
+I love Ginger Beer. I have read/heard that it is pretty easy to make and that the homemade stuff can be way better than the readily available kind. I decided to give it a try. After reading around, I found that the first step is to make a [ginger bug]. It is not actually a bug - just a fermenting ginger/sugar mixture :)
 
-I love Ginger Beer, Ginger Ale is good too but generally not spicy enough for my tastes. I have already brewed a few beers and have already acquired some brewing equipment; there was little-to-no barrier to entry for me on this one.
+## Making the Bug
+I followed [this recipe][ginger beer recipe]. Here are some tips that I gathered:
 
-## Work in Progress
-I am still working on this :) come back later
+* Non-irradiated ginger is recommended - if it is irradiated the bacteria may not be able to thrive on it. Organic ginger is your best bet for this.
+* Use non-chlorinated water - chlorine kills microbes. Easiest way is to get bottled water, but there are ways to [de-chlorinate tap water][de-chlorinate water] too.
 
-## More
-With a ginger bug, you are not limited to just ginger beer. You can add some ginger bug to any sufficiently sugary liquid and have a soda within a few days (fresh summer fruit soda anyone?). In addition to being delicious, these fermented drinks will at least retain the  nutrients of the original ingredients and can potentially enhance them. I recommend you read more about [ginger bug sodas][ginger soda] if you are interested.
+My result:
+
+![My Ginger Bug](/2015/07/07/ginger-bug/thebug.jpg)
+
+## Next
+I will keep following the [recipe instructions][ginger beer recipe] by feeding the bug sugar and ginger. Hopefully it will start fermenting after a few days and I can make a post about making something with it. The obvious 'something' is ginger beer, but it seems any sufficiently sugary liquids can be fermented using the bug. [Here][ginger soda] is a recipe for fruit/tea soda.
 
 ### Links
 * [About the Ginger Bug][ginger bug] - describes what it is and how to make one
 * [Recipe][ginger beer recipe] - a good recipe with pictures, I followed this one as much as possible
 * [Ginger Bug Sodas][ginger soda] - there are a lot things to do with your ginger bug
+* [De-chlorinating water][de-chlorinate water] - safely using tap water for fermentation
+
 
 [ginger bug]: http://nourishedkitchen.com/ginger-bug/
 [ginger beer recipe]: http://phickle.com/fermentation-basics-ginger-beer/
 [ginger soda]: http://wholelifestylenutrition.com/recipes/drinks/organic-fermented-ginger-bug-soda-recipe/
+[de-chlorinate water]: http://homebrew.stackexchange.com/questions/3447/what-are-the-various-ways-to-remove-chlorine-chloramine-from-tap-water
