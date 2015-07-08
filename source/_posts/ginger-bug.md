@@ -2,7 +2,7 @@ title: The Ginger Bug
 tags:
   - ginger beer
   - homebrewing
-short_desc: 'In this post I describe the first step of ginger brewing, making the bug'
+short_desc: 'In this post I describe the first step of ginger brewing - making the bug'
 og_img: /2015/07/07/ginger-bug/thebug.jpg
 date: 2015-07-07 17:12:08
 ---
