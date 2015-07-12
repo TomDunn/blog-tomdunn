@@ -33,7 +33,7 @@ The wort was spicy and sweet. Its original gravity was about 1.029.
 
 ## Next
 
-Hopefully fermentation starts - if it does I will need to transfer the ginger beer into bottles so that it beer becomes carbonated. Stay tuned!
+Hopefully fermentation starts - if it does I will need to transfer the ginger beer into bottles so that it becomes carbonated. Stay tuned!
 
 [previous-post]: /2015/07/07/ginger-bug/
 [ginger bug]: http://nourishedkitchen.com/ginger-bug/
