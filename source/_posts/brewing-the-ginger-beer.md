@@ -2,9 +2,11 @@ title: Brewing Ginger Beer
 tags:
   - ginger beer
   - homebrewing
-short_desc: 'Brewing my first batch of ginger beer'
-og_img: http://tomdunn.net/2015/07/11/brewing-the-ginger-beer/ginger-brewing.jpg
+short_desc: Brewing my first batch of ginger beer
+og_img: 'http://tomdunn.net/2015/07/11/brewing-the-ginger-beer/ginger-brewing.jpg'
+date: 2015-07-11 18:09:41
 ---
+
 
 In my [previous post][previous-post] I talked about making a [ginger bug] and today I will talk about using the ginger bug to start brewing ginger beer.
 
