@@ -2,9 +2,11 @@ title: Bottling the Ginger Beer
 tags:
   - ginger beer
   - homebrewing
-short_desc: The ginger wort has fermented for a week, time to bottle
-og_img: http://tomdunn.net/2015/07/19/bottling-the-brew/brew-sample.jpg
+short_desc: 'The ginger wort has fermented for a week, time to bottle'
+og_img: 'http://tomdunn.net/2015/07/19/bottling-the-brew/brew-sample.jpg'
+date: 2015-07-19 10:51:53
 ---
+
 
 After a week of extremely slow fermentation, I decided to bottle. Nothing particularly exciting about the bottling process - I made a gravity siphon and transfered the brew into my [Grolsch swing top bottles][swing tops]. I took a sample as well.
 
