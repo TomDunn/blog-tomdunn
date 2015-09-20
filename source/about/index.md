@@ -9,4 +9,4 @@ Hello there, my name is Tom and I am working as a Software Engineer for Amazon.c
 ## More
 * [snoolytics.com](http://snoolytics.com) - dashboards & exploration of subreddits on reddit.com
 * [traveling.tomdunn.net](http://traveling.tomdunn.net) - photo blog of my move from PA to WA
-* [Reddit Communities](tomdunn.github.io/reddit-community-graph/graph.html) - a colorful graph visualization of communities on reddit. Not mobile friendly and can take quite some time to load
+* [Reddit Communities](https://tomdunn.github.io/reddit-community-graph/graph.html) - a colorful graph visualization of communities on reddit. Not mobile friendly and can take quite some time to load
