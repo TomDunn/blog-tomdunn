@@ -29,7 +29,7 @@ Ingredients:
 * 0.67 pounds dark malt extract - [CBW Traditional Dark LME]
 * 0.20-0.25 pounds black malt
 * ~ 0.21 ounce Chinook hops for boiling (bittering)
-** Recipe called 13 HBUs which is about 0.21 ounce of hops with 12.1% alpha acid
+  * Recipe called 13 HBUs which is about 0.21 ounce of hops with 12.1% alpha acid
 * ~0.1 ounce Chinook for aroma
 * 0.25 tsp [Irish Moss] - helps with beer clarity
 * ~ half packet [Safale S-04] yeast
@@ -51,7 +51,7 @@ Timeline/Process:
 
 Measurements:
 * O.G. was 1.060 (yes! the O.G. is expected to be between 1.058 and 1.062 for this recipe)
-* F.G. was 1.020 or 1.021
+* F.G. was 1.020 or 1.021 (before bottling)
 * Start date was August 30th 2015
 * Bottle date was September 5th 2015
 
@@ -72,9 +72,10 @@ Ingredients:
 
 Measurements:
 * O.G. was 1.045
+* F.G. (before bottling) was 1.010
 
 ### Result so far
-Still fermenting.
+Now in bottles, gravity before bottling as about 1.010. The ginger taste faded signficiantly, it is quite bitter as well as I really hopped the shit out of it.
 
 ![Fermenting Gingered Ale](/2015/09/06/homebrew-bonanza/carboy.jpg)
 
